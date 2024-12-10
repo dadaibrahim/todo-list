@@ -20,6 +20,9 @@ const addTask=()=>{
     }
 };
 
+const saveTasks=()=>{
+    
+}
 
 //Remove a task
 const removeTask=(btn)=>{
